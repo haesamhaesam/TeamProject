@@ -9,7 +9,7 @@
 UCLASS()
 class TEAMPROJECT_API AMyActor : public AActor
 {
-	GENERATED_BODY()
+	//GENERATED_BODY()dd
 	
 public:	
 	// Sets default values for this actor's properties
